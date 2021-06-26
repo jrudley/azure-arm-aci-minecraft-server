@@ -33,7 +33,8 @@
                 "eastus",
                 "westeurope",
                 "southeastaisa",
-                "westus2"
+                "westus2",
+                "southcentralus"
             ],
             "metadata": {
                 "description": "Container Instance Location"
